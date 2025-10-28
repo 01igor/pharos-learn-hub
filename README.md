@@ -1,4 +1,5 @@
 ![Pharos Learn Hub](assets/lighthouse-banner.png)
+![Pharos Learn Hub](assets/lighthouse-banner.png)
 
 # Pharos Learn Hub 🌕🚢
 
