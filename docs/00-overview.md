@@ -36,9 +36,8 @@ Ensures seamless communication and data transfer between different SPNs and core
 Adaptive Restaking Interaction Protocol (ARIP)
 Coordinates validation, security, and reward mechanisms between the main chain and extended subnetworks.
 
-What it brings to the ecosystem
+What it brings to the ecosystem  
 
-#
 For users:
 
 Near-instant transactions (< 1 second finality)
