@@ -1,5 +1,4 @@
-![Pharos Learn Hub](assets/lighthouse-banner.png)
-![Pharos Learn Hub](assets/lighthouse-banner.png)
+![Pharos Learn Hub](assets/depositphotos_124968620-stock-illustration-vector-banner-lighthouse-in-blue.jpg)
 
 # Pharos Learn Hub 🌕🚢
 
