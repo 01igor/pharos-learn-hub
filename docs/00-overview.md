@@ -1,4 +1,4 @@
-# 0. What is Pharos?
+#  What is Pharos?
 
 Pharos Network — Overview
 What is Pharos Network
