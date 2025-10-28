@@ -50,6 +50,6 @@ Always double-check official announcements.
 ---
 
 ### 🌍 Stay connected
-Follow [@PharosNetwork](https://twitter.com/PharosNetwork) on X  
+Follow [@PharosNetwork]([https://twitter.com/PharosNetwork](https://x.com/pharos_network) on X  
 Join the official Discord to stay updated 🌕
 
