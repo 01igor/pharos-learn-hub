@@ -38,6 +38,7 @@ Coordinates validation, security, and reward mechanisms between the main chain a
 
 What it brings to the ecosystem
 
+
 For users:
 
 Near-instant transactions (< 1 second finality)
@@ -45,6 +46,7 @@ Near-instant transactions (< 1 second finality)
 High throughput and extremely low fees
 
 Secure and reliable network performance
+
 
 For developers:
 
