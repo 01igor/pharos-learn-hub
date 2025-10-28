@@ -38,7 +38,7 @@ Coordinates validation, security, and reward mechanisms between the main chain a
 
 What it brings to the ecosystem
 
-
+#
 For users:
 
 Near-instant transactions (< 1 second finality)
